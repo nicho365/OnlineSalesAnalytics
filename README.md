@@ -1,7 +1,7 @@
 #  Online Sales Performance Analysis
 
 [![Tableau Dashboard](https://img.shields.io/badge/Tableau-Interactive_Dashboard-E97627?style=for-the-badge&logo=tableau)](https://public.tableau.com/app/profile/nicholas.calvin7573/viz/P0M1_nicholas_calvin/Dashboard1?publish=yes)
-[![Python](https://img.shields.io/badge/Python-Data_Analysis-3776AB?style=for-the-badge&logo=python)](#)
+[![Python](https://img.shields.io/badge/Python-Data_Analysis-3776AB?style=for-the-badge&logo=python)](https://github.com/nicho365/OnlineSalesAnalytics/blob/main/P0M1_nicholas_calvin.ipynb)
 
 ---
 
@@ -66,8 +66,6 @@ To find the root cause of the regional revenue disparity, a **Chi-Square Conting
 You can explore the interactive data visualizations on Tableau Public:
 
 **[🔗 Click Here to View the Tableau Dashboard](https://public.tableau.com/app/profile/nicholas.calvin7573/viz/P0M1_nicholas_calvin/Dashboard1?publish=yes)**
-
-*(Optional: Insert a screenshot of your dashboard here by replacing this text with `![Dashboard Preview](link-to-your-image.png)`)*
 
 ---
 
