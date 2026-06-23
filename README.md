@@ -20,9 +20,18 @@ Optimize sales strategies in underperforming payment types and untapped regional
 ---
 
 ##  Dataset Overview
-The dataset contains 240 transactions from 2024 with zero missing values and no duplicates. 
+The dataset contains 240 transactions from 2024 with zero missing values and no duplicates. Dataset provides comprehensive overview of online sales transactions across different product categories. Each row represents a single transaction with detailed information such as the order ID, date, category, product name, quantity sold, unit price, total price, region, and payment method. 
 * **Source:** [Online Sales Dataset - Kaggle](https://www.kaggle.com/datasets/shreyanshverma27/online-sales-dataset-popular-marketplace-data?resource=download)
-* **Key Columns:** `Transaction ID`, `Date`, `Product Category`, `Product Name`, `Units Sold`, `Unit Price`, `Total Revenue`, `Region`, `Payment Method`.
+* **Key Columns:**
+  1. `Order ID`: Unique identifier for each sales order.
+  2. `Date`    :Date of the sales transaction.
+  3. `Category`:Broad category of the product sold (e.g., Electronics, Home Appliances, Clothing, Books, Beauty Products, Sports).
+  4. `Product Name` :Specific name or model of the product sold.
+  5. `Quantity`:Number of units of the product sold in the transaction.
+  6. `Unit Price`:Price of one unit of the product.
+  7. `Total Price`: Total revenue generated from the sales transaction (Quantity * Unit Price).
+  8. `Region`  :Geographic region where the transaction occurred (e.g., North America, Europe, Asia).
+  9. `Payment Method`: Method used for payment (e.g., Credit Card, PayPal, Debit Card).
 
 ---
 
