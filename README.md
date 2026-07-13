@@ -1,7 +1,7 @@
 #  Online Sales Performance Analysis
 
 [![Tableau Dashboard](https://img.shields.io/badge/Tableau-Interactive_Dashboard-E97627?style=for-the-badge&logo=tableau)](https://public.tableau.com/app/profile/nicholas.calvin7573/viz/P0M1_nicholas_calvin/Dashboard1?publish=yes)
-[![Python](https://img.shields.io/badge/Python-Data_Analysis-3776AB?style=for-the-badge&logo=python)](https://github.com/nicho365/OnlineSalesAnalytics/blob/main/P0M1_nicholas_calvin.ipynb)
+[![Python](https://img.shields.io/badge/Python-Data_Analysis-3776AB?style=for-the-badge&logo=python)](https://github.com/nicho365/OnlineSalesAnalytics/blob/main/analyst.ipynb)
 
 ---
 
